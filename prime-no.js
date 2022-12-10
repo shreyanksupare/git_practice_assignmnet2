@@ -5,7 +5,7 @@
         if(num%i===0)
         count++
     }
-if(count===1)
+if(count===2)
 {
         console.log("Yes")
     }
